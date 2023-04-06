@@ -1,0 +1,3 @@
+cluster_name = "default_name"
+vpc_id       = "vpc-05febfb4df5d8452d"
+subnets      = ["subnet-04501b3e7e07b465b, subnet-016fafc41f356c5b5"]
